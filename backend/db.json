@@ -1,3 +1,14 @@
 {
-  "users": []
+  "users": [
+    {
+      "name": "Fulano da Silva",
+      "email": "fulano.silva@hhh.com",
+      "id": 1
+    },
+    {
+      "name": "Beltrano Pereira",
+      "email": "beltrano.pereira@ggg.com",
+      "id": 2
+    }
+  ]
 }
